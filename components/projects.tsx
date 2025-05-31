@@ -10,7 +10,7 @@ export default function Projects() {
       description:
         "Real-time booking platform with Google Meet integration, role-based access, messaging, calendar sync, and admin dashboard.",
       tags: ["MERN", "TypeScript", "GoogleCalander API", "PostgreSQL", "JWT"],
-      codeLink: "https://github.com/lavanyanallabelli/skillsync",
+      codeLink: "https://github.com/lavanyanallabelli/skillshare-sync-connect",
       liveLink: null,
     },
     {
@@ -18,7 +18,7 @@ export default function Projects() {
       description:
         "Microservice architecture with modular services for products, users, orders, and payments. Features role-based dashboards and full test coverage.",
       tags: ["MERN", "Styled Components", "Docker", "CI/CD"],
-      codeLink: "https://github.com/lavanyanallabelli/ecommerce-platform",
+      codeLink: "https://github.com/lavanyanallabelli/E-Commerce",
       liveLink: null,
     },
     {
@@ -26,7 +26,7 @@ export default function Projects() {
       description:
         "Deep learning project using TensorFlow to predict taxi trip durations in NYC based on geospatial, temporal, and weather features.",
       tags: ["Python", "TensorFlow", "Keras", "EDA", "Regression"],
-      codeLink: "https://github.com/lavanyanallabelli/Flight-Price-Prediction-Using-ML",
+      codeLink: "https://github.com/lavanyanallabelli/NYC_Yellow_Taxi_Trip_Duration_Prediction",
       liveLink: null,
     },
     {
@@ -34,7 +34,7 @@ export default function Projects() {
       description:
         "Java + Selenium + Cucumber test framework for e-commerce flows with 85% coverage and Jenkins integration.",
       tags: ["Java", "Selenium", "Cucumber", "Maven", "Jenkins"],
-      codeLink: "https://github.com/lavanyanallabelli/ajio-automation",
+      codeLink: "https://github.com/lavanyanallabelli/Ajio_Cucumber",
       liveLink: null,
     },
   ]
