@@ -27,13 +27,6 @@ Welcome to my personal developer portfolio! This website showcases my profession
 
 I'm a Master's student in Computer Science at Pace University with experience in full-stack web development, data analytics, and Agile software development. This portfolio reflects my passion for building impactful and user-friendly digital experiences.
 
-## 📬 Contact
-
-If you’d like to collaborate or have any questions, feel free to reach out:
-
-- Email: ln34792n@pace.edu  
-- LinkedIn: [linkedin.com/in/lavanya-nallabelli](https://www.linkedin.com/in/lavanya-nallabelli/)
-
 ## 📜 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
