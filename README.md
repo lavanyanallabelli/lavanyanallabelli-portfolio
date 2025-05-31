@@ -1,30 +1,42 @@
-# Lavanya's portfolio
+# 💼 Lavanya Nallabelli – Developer Portfolio
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Welcome to my personal developer portfolio! This website showcases my professional journey, technical skills, and key projects in web development, data science, and software engineering.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/lavanyas-projects-f40c8340/v0-nihal-s-portfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/s9lWSZR7UwE)
+## 🌐 Live Links
 
-## Overview
+- **Vercel Deployment:** [lavanyanallabelli-portfolio.vercel.app](https://lavanyanallabelli-portfolio-a19bru0xm.vercel.app/)
+- **Cloudflare Deployment:** [lavanyanallabelli-portfolio.pages.dev](https://0a5f8910.lavanyanallabelli-portfolio.pages.dev/)
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
-## Deployment
+## 🛠️ Tech Stack
 
-Your project is live at:
+- **Frontend:** React.js, Tailwind CSS, Framer Motion
+- **Deployment:** Vercel, Cloudflare Pages
+- **Version Control:** Git & GitHub
+- **Design Tools:** Figma (UI/UX design & prototyping)
 
-**[https://vercel.com/lavanyas-projects-f40c8340/v0-nihal-s-portfolio](https://vercel.com/lavanyas-projects-f40c8340/v0-nihal-s-portfolio)**
+## 🚀 Features
 
-## Build your app
+- Responsive and accessible design
+- Smooth scroll and animated transitions
+- Project showcases with live previews
+- Contact form integration (optional via email or backend)
+- SEO-optimized meta tags and performance enhancements
 
-Continue building your app on:
+## 🧠 About Me
 
-**[https://v0.dev/chat/projects/s9lWSZR7UwE](https://v0.dev/chat/projects/s9lWSZR7UwE)**
+I'm a Master's student in Computer Science at Pace University with experience in full-stack web development, data analytics, and Agile software development. This portfolio reflects my passion for building impactful and user-friendly digital experiences.
 
-## How It Works
+## 📬 Contact
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+If you’d like to collaborate or have any questions, feel free to reach out:
+
+- Email: ln34792n@pace.edu  
+- LinkedIn: [linkedin.com/in/lavanya-nallabelli](https://www.linkedin.com/in/lavanya-nallabelli/)
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+
